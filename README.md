@@ -1,6 +1,7 @@
-
-#  Flutter Interview Questions and Answers <div align="center">
+<div align="center">
   <img height="60" src="https://img.icons8.com/color/256/flutter.png">
+#  Flutter Interview Questions and Answers <div align="center">
+
   
 
 <span>This repository contains common Flutter interview questions and their answers.🚀 From basic to advanced, test your understanding of Flutter and Dart, brush up on your knowledge 💪, or get ready for your next coding interview! I add new questions to this repository on a regular basis (along with answers 😉). Best of luck to all of you. ❤ <br />• Last updated: <a href=#20230310><b>Nov 8th, 2024</b></a>
