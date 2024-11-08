@@ -7,7 +7,7 @@
   
   
 
-<span>This repository contains common Flutter interview questions and their answers.🚀 From basic to advanced, test your understanding of Flutter and Dart, brush up on your knowledge 💪, or get ready for your next coding interview! I add new questions to this repository on a regular basis (along with answers 😉). Best of luck to all of you. ❤ <br />• Last updated: <a href=#20230310><b>Mar 10th, 2023</b></a>
+<span>This repository contains common Flutter interview questions and their answers.🚀 From basic to advanced, test your understanding of Flutter and Dart, brush up on your knowledge 💪, or get ready for your next coding interview! I add new questions to this repository on a regular basis (along with answers 😉). Best of luck to all of you. ❤ <br />• Last updated: <a href=#20230310><b>Nov 8th, 2024</b></a>
 </span>
 
 <em>Feel free to reach out to me!</em> 😀 <br />
