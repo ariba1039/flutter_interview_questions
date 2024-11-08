@@ -4,9 +4,20 @@
 
 <div align="center">
   <img height="60" src="https://img.icons8.com/color/256/flutter.png">
+  ---
+
+<span>This repository contains common Flutter interview questions and their answers.🚀 From basic to advanced, test your understanding of Flutter and Dart, brush up on your knowledge 💪, or get ready for your next coding interview! I add new questions to this repository on a regular basis (along with answers 😉). Best of luck to all of you. ❤ <br />• Last updated: <a href=#20230310><b>Mar 10th, 2023</b></a>
+</span>
+
+<em>Feel free to reach out to me!</em> 😀 <br />
+<a href="https://www.instagram.com/ariba.dev">Instagram</a> • <a href="https://www.twitter.com/ariba_hussain10">Twitter</a> • <a href="https://www.linkedin.com/in/ariba1039">LinkedIn</a> • <a href="https://www.medium.com/@aribadev">Medium Blog</a>
+
+| If you find this repository useful, kindly give it a star ⭐. Thank you and have fun! 🔥   |
+|---|
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&pause=1000&width=435&lines=Happy+Coding+in+Flutter++%F0%9F%9A%80%F0%9F%93%B1" alt="Typing SVG" /></a>
 </h1>
+
 
 #### 1. What is Flutter?
 
